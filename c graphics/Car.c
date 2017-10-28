@@ -1,3 +1,10 @@
+/*				This Program will draw a Stationary Car 
+				with white outlines and a Blue background
+				using simple graphic functions.
+				This is written to work on windows with Turbo C compiler with BGI
+
+*/
+
 #include<stdio.h>
 #include<graphics.h>
 #include<conio.h>
