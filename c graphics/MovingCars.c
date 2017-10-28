@@ -1,3 +1,10 @@
+/*				This Program will draw Four Moving Cars 
+				with colourful outlines and black background
+				using simple graphic functions.
+				Each Car moves in particular direction after each other
+				This is written to work on windows with Turbo C compiler with BGI
+*/
+
 #include<graphics.h>
 #include<dos.h>
 #include<conio.h>
