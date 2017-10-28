@@ -1,3 +1,9 @@
+/*				This Program will draw 5 Spiro-graphs 
+				with colorful outlines and colorful circles as background
+				using simple graphic functions.
+				This is written to work on windows with Turbo C compiler with BGI
+*/
+
 #include<graphics.h>
 #include<conio.h>
 #include<math.h>
