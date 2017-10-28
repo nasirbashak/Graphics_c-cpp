@@ -1,3 +1,10 @@
+/*				This Program will draw 4 Balls 
+				with Red outlines , Blue inner fills and a black background
+				using simple graphic functions.
+				This is written to work on windows with Turbo C compiler with BGI
+*/
+
+
 #include<graphics.h>
 #include<conio.h>
 #include<dos.h>
