@@ -1,3 +1,10 @@
+/*				This Program will draw a Diamond Pattern based on the user's input 
+				with white outlines and a colorful background
+				using simple graphic functions.
+				This is written to work on windows with Turbo C compiler with BGI
+*/
+
+
 #include<stdio.h>
 #include<conio.h>
 #include<dos.h>
